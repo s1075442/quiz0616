@@ -79,7 +79,6 @@ E:\class_Set\quiz\quiz410754427\quiz410754427\bin\zh-Hant\System.Web.Razor.resou
 E:\class_Set\quiz\quiz410754427\quiz410754427\bin\zh-Hant\System.Web.WebPages.resources.dll
 E:\class_Set\quiz\quiz410754427\quiz410754427\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 E:\class_Set\quiz\quiz410754427\quiz410754427\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-E:\class_Set\quiz\quiz410754427\quiz410754427\obj\Debug\quiz410754427.csproj.AssemblyReference.cache
 E:\class_Set\quiz\quiz410754427\quiz410754427\obj\Debug\quiz410754427.csproj.CoreCompileInputs.cache
 E:\class_Set\quiz\quiz410754427\quiz410754427\obj\Debug\quiz410754427.csproj.CopyComplete
 E:\class_Set\quiz\quiz410754427\quiz410754427\obj\Debug\quiz410754427.dll
