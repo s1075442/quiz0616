@@ -27,7 +27,7 @@ namespace quiz410754427.Controllers
                 result = "下午一點";
             }
             else if (number == "14") {
-                result = "下午-21點";
+                ViewBag.Result = "下午-21點";
             }
 
             ViewBag.Name = name;
